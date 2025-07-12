@@ -7,3 +7,18 @@ Pandas, NumPy
 scikit-learn
 XGBoost
 Streamlit (for frontend deployment)
+
+## 🧠 Who Is This For?
+
+- Aspiring data scientists
+- Students learning ML deployment
+- Startups and telecom analysts
+- Recruiters seeking end-to-end ML projects
+
+- ## 📣 Show Support
+
+If you find this useful:
+
+⭐ Star this repo  
+🍴 Fork it  
+🐛 Submit issues
